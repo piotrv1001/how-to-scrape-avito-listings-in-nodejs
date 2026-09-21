@@ -2,6 +2,8 @@
 
 This example shows how to scrape Avito category listings and optional seller details in Node.js using the [Avito Listings Scraper](https://apify.com/piotrv1001/avito-listings-scraper) Actor on Apify. It calls an existing Actor rather than implementing an Avito scraper.
 
+![Avito listing and detail records in the Apify Console](./avito_listings_scraper_results.png)
+
 ## What this example does
 
 - Calls `piotrv1001/avito-listings-scraper`
