@@ -1,0 +1,43 @@
+[
+  {
+    "id": "8374995389",
+    "url": "https://www.avito.ru/novosibirsk/detskaya_odezhda_i_obuv/detskie_uteplennye_kombenizony_r-r_68_i_74_8374995389",
+    "title": "Детские утепленные комбенизоны р-р 68 и 74",
+    "price": 3700,
+    "priceText": "3 700 ₽",
+    "specs": null,
+    "location": "Площадь Маркса, до 5 мин.",
+    "sellerRating": null,
+    "city": "novosibirsk",
+    "category": "detskaya_odezhda_i_obuv",
+    "description": "Утеплённый комбинезон с конвертом 68 р-р и комбинезон 74 р-р.",
+    "sellerName": "Пользователь",
+    "sellerType": "Частное лицо",
+    "address": "Площадь Маркса, до 5 мин.",
+    "params": {
+      "Вид одежды": "Утеплённые комбинезоны",
+      "Состояние": "Б/у",
+      "Сезон": "Зима, Демисезон",
+      "Бренд": "Babygo",
+      "Цвет": "Белый"
+    },
+    "images": [
+      "https://40.img.avito.st/image/1/example-1",
+      "https://50.img.avito.st/image/1/example-2"
+    ]
+  },
+  {
+    "id": "8305209948",
+    "url": "https://www.avito.ru/novosibirsk/detskaya_odezhda_i_obuv/bodi_i_shtanishki_novye_3-6_mes_8305209948",
+    "title": "Боди и штанишки новые 3-6 мес",
+    "price": 629,
+    "priceText": "629 ₽",
+    "specs": null,
+    "location": null,
+    "sellerRating": null,
+    "imageUrl": "https://80.img.avito.st/image/1/example",
+    "city": "novosibirsk",
+    "category": "detskaya_odezhda_i_obuv",
+    "detailsAvailable": false
+  }
+]
